@@ -1,0 +1,10 @@
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\MapleBOT2.csprojResolveAssemblyReference.cache
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\MapleBOT2.Form1.resources
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\MapleBOT2.Properties.Resources.resources
+c:\users\kittenxs\contacts\documents\visual studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\MapleBOT2.csproj.GenerateResource.Cache
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\bin\Debug\MemoryEditor.dll
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\bin\Debug\Nigger Bot.exe.config
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\bin\Debug\Nigger Bot.exe
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\bin\Debug\Nigger Bot.pdb
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\Nigger Bot.exe
+C:\Users\Kittenxs\Contacts\Documents\Visual Studio 2017\Projects\MapleBOT2\MapleBOT2\obj\Debug\Nigger Bot.pdb
